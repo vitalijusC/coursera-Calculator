@@ -1,0 +1,13 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Vitalijus/AppData/Local/Temp/sbt-structure.xml; session clear-all
+> webUI/fastOptJS
+last webUI/compile:fastOptJS 
+> webUI/fastOptJS
+fastOptJS
+> webUI/fastOptJS
+> webUI/calculatorUI
+all {file:/E:/DataRoot/2/Coursera/calculator/}webUI/products {file:/E:/DataRoot/2/Coursera/calculator/}webUI/test:products
+> webUI/calculatorUI
+webUI/fastOptJS
+ webUI/fastOptJS
+test
+submit vitalijus@ukr.net SAKrr0KBQn4jUVvc
